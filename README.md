@@ -338,7 +338,7 @@
 
 </center>
 
-## Median Time for __Rust__ Questions
+## Median Time for __Go__ Questions
 
 <center>
 
@@ -471,7 +471,7 @@
 
 
 
-## Median Time for __Go__ Questions
+## Median Time for __Rust__ Questions
 
 <center>
 
